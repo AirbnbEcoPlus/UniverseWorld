@@ -1,0 +1,9 @@
+name: UniverseWorld
+version: '${project.version}'
+main: fr.endide.universeworld.UniverseWorld
+api-version: 1.19
+authors: [ Krfcm2 ]
+website: https://endide.com
+commands:
+  uw:
+    description: Add a friend world to your universe
